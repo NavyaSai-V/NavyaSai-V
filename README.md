@@ -1,9 +1,9 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Navya Sai Arcot</h1>
-<h3 align="center">A passionate Data Science | Data Analyst from Hyderabad, India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
+<h3 align="center">A passionate Data Scientist | Data Analyst from Hyderabad, India</h3>
+<p align="center"><img align="center" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.12b7877ea50bc630d3c2367553a4e1a3?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1374371%2fscreenshots%2f3111578%2fgirl_flat_desk_kit8.gif&ehk=tgYCdYFce%2f5SAuFFTFwznGdyYc4HMUY2P0EkDDgwb9s%3d"></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navyasai-v" alt="navyasai-v" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navyasai-v" alt="navyasai-v" /></a> </p>
 
 - 🔭 I’m currently working on **Data Analyst Skills**
 
