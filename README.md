@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navyasai-v" alt="navyasai-v" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analyst Skills**
+- 🔭 I’m currently working on **Gen AI Skills**
 
-- 🌱 I’m currently learning **Ms Excel, Deep Learning**
+- 🌱 I’m currently learning **LLMs, Deep Learning**
 
 - 🤝 I’m looking for help with **Unclean Data cleaning process and Feature Engineering**
 
-- 💬 Ask me about **Machine Learning, HTML, CSS, Java Script**
+- 💬 Ask me about **Machine Learning, Data Science, PowerBI, Excel, HTML, CSS, Java Script**
 
 - 📫 How to reach me **navyasai1401@gmail.com**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/navya sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navya sai" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/navya sai](https://www.linkedin.com/in/navya-sai-arcot/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navya sai" height="30" width="40" /></a>
 <a href="https://instagram.com/_navya_sai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_navya_sai_" height="30" width="40" /></a>
 </p>
 
